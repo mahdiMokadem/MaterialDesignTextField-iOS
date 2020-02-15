@@ -18,7 +18,7 @@ class FloatingTextField: UIView, UITextFieldDelegate {
     var errorLabelBottomConstraint: NSLayoutConstraint!
     var trailingPlaceholder: NSLayoutConstraint!
     
-    var activeColor: UIColor = Constants.colorBlue
+    var activeColor: UIColor = UIColor(red: 64/255.0, green: 110/255.0, blue: 191/255.0, alpha: 1.0)
     var inActiveColor: UIColor = UIColor(red: 84/255.0, green: 110/255.0, blue: 122/255.0, alpha: 0.8)
     var errorColorFull: UIColor =  UIColor(red: 254/255.0, green: 103/255.0, blue: 103/255.0, alpha: 1.0)
 
