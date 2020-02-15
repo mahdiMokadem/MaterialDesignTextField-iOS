@@ -1,7 +1,7 @@
 # MaterialDesignTextField-iOS
 This class is an iOS native code written in swift to achieve the same result and design for material design text fields.
 
-#How to use it?
+# How to use it?
 
 1- Add FloatingTextField.swift class to your project. 
 
@@ -13,7 +13,7 @@ This class is an iOS native code written in swift to achieve the same result and
 
 5- Run the code and checkout the view !
 
-#Features? 
+# Features? 
 
 1- Set the placeholder: 
  textFieldController.placeholderText = "Placeholder";
