@@ -2,13 +2,19 @@
 This class is an iOS native code written in swift to achieve the same result and design for material design text fields.
 
 #How to use it?
+
 1- Add FloatingTextField.swift class to your project. 
+
 2- Create a view in your storyboard or .xib file.
+
 3- Assigne the class of the view to FloatingTextField.
+
 4- Connect an outlet of your view to the view controller class.
+
 5- Run the code and checkout the view !
 
 #Features? 
+
 1- Set the placeholder: 
  textFieldController.placeholderText = "Placeholder";
 
